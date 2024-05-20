@@ -1,0 +1,13 @@
+.marR5{
+    margin-right:5px;
+  }
+  .step3Flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .flex{
+    display:flex !important;
+    justify-content: center;
+  }  
